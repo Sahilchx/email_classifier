@@ -48,7 +48,22 @@ python main.py
 ---
 ## 🧠 How It Works
 
-Preprocessing: The dataset is cleaned by removing stopwords, punctuation, and unnecessary characters
-Feature Extraction: Converts email text into numerical format using TF-IDF vectorization
-Model Training: Trains models (Naïve Bayes, Decision Tree, Random Forest) on labeled data
-Prediction: Given a new email, the model predicts if it's spam or not spam
+### 1️⃣ Preprocessing
+The dataset is cleaned by removing stopwords, punctuation, and unnecessary characters
+### 2️⃣ Feature Extraction
+Converts email text into numerical format using TF-IDF vectorization
+### 3️⃣ Model Training
+Trains models (Naïve Bayes, Decision Tree, Random Forest) on labeled data
+### 4️⃣ Prediction
+Given a new email, the model predicts if it's spam or not spam
+
+---
+## 🤖 Machine Learning Models Used
+Naïve Bayes Classifier (Great for text classification)
+
+Decision Tree Classifier
+
+Random Forest Classifier
+---
+## 📂 Dataset  
+You can download the dataset from [https://your-dataset-link.com)](https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification].
