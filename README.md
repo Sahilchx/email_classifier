@@ -58,13 +58,26 @@ Trains models (Naïve Bayes, Decision Tree, Random Forest) on labeled data
 Given a new email, the model predicts if it's spam or not spam
 
 ---
-## 🤖 Machine Learning Models Used
-Naïve Bayes Classifier (Great for text classification)
+## 📊 Machine Learning Models Used
 
-Decision Tree Classifier
+✔ **Naïve Bayes Classifier**  
+✔ **Decision Tree Classifier**  
+✔ **Random Forest Classifier**  
 
-Random Forest Classifier
 ---
 ## 📂 Dataset  
 You can download the dataset from [this link](https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification).
 
+---
+## 💡 Interesting Findings
+
+- 🟠 **Naïve Bayes** performed well but mistakenly classified simple ham emails as spam.  
+- 🔵 **Decision Tree** reached **96.8% accuracy**.  
+- 🟢 **Random Forest** outperformed with **98.6% accuracy** & better real-time predictions.  
+
+---
+## 🔮 Future Work
+
+- ⚡ Use **Deep Learning** and **NLP models** for better classification.  
+- 📈 Use **real-time datasets** to improve optimal and more accurate predictions.  
+---
